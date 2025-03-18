@@ -1,2 +1,30 @@
-# MARS-LEARN
-AI &amp; Data Modeling Essentials for the Red Planet
+# 🚀 MARS-LEARN
+
+[![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
+
+## 🧑‍💻 Lecturer: Kao Panboonyuen
+
+### 📚 **Main Resources**
+
+- **Slides on Basic AI to MARS**: [View the slides](https://github.com/kaopanboonyuen/MARS-LEARN/blob/main/slides/20250317_BasicAI_toOCSB.pdf)
+  
+- **Titanic Machine Learning**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Titanic_ML_toStudent.ipynb)
+
+- **Satellite Classification**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Dental_Classification_toStudent.ipynb)
+
+- **Image Segmentation**: N/A
+
+### 🎯 **About MARS-LEARN**
+MARS-LEARN is an AI-focused repository providing curated resources, hands-on labs, and interactive tutorials for students and professionals aiming to master machine learning and deep learning concepts. Whether you're a beginner or an advanced practitioner, MARS-LEARN serves as a comprehensive learning hub.
+
+[![MARS AI](https://github.com/kaopanboonyuen/kaopanboonyuen.github.io/raw/main/files/MARS/MARSAIL.png)](https://github.com/kaopanboonyuen/MARS)
+
+### 🔥 **Stay Updated!**
+New materials will be added regularly, so keep checking for updates. Happy coding! 🚀
+
+### 📖 **Reference Materials:**
+1. [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+2. [Kaggle - Datasets & Competitions](https://www.kaggle.com/)
+3. [UCL Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+4. [Model Zoo - Pretrained AI Models](https://modelzoo.co/)
+5. [Hugging Face - Transformers & Datasets](https://huggingface.co/)
