@@ -15,7 +15,7 @@
 - **Image Segmentation**: N/A
 
 ### 🎯 **About MARS-LEARN**
-MARS-LEARN is an AI-focused repository providing curated resources, hands-on labs, and interactive tutorials for students and professionals aiming to master machine learning and deep learning concepts. Whether you're a beginner or an advanced practitioner, MARS-LEARN serves as a comprehensive learning hub.
+MARS (Motor AI Recognition Solution) is an AI company specializing in car insurance solutions. MARS-LEARN is a dedicated session for updating AI knowledge, providing foundational learning resources in AI and data modeling for MARS team members. This repository includes curated materials, hands-on labs, and interactive tutorials to help students and professionals enhance their machine learning and deep learning skills. Whether you're a beginner or an advanced practitioner, MARS-LEARN serves as a comprehensive learning hub.
 
 [![MARS AI](https://github.com/kaopanboonyuen/kaopanboonyuen.github.io/raw/main/files/MARS/MARSAIL.png)](https://github.com/kaopanboonyuen/MARS)
 
