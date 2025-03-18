@@ -6,7 +6,7 @@
 
 ### 📚 **Main Resources**
 
-- **Slides on Basic AI to MARS**: [View the slides](https://github.com/kaopanboonyuen/MARS-LEARN/blob/main/slides/20250317_BasicAI_toOCSB.pdf)
+- **Slides on Basic AI to MARS**: [View the slides](https://github.com/kaopanboonyuen/MARS-LEARN/blob/main/slides/20250319_BasicAI_toMARS.pdf)
   
 - **(Machine Learning Lab) Titanic Machine Learning**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Titanic_ML_toStudent.ipynb)
 
