@@ -8,11 +8,9 @@
 
 - **Slides on Basic AI to MARS**: [View the slides](https://github.com/kaopanboonyuen/MARS-LEARN/blob/main/slides/20250317_BasicAI_toOCSB.pdf)
   
-- **Titanic Machine Learning**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Titanic_ML_toStudent.ipynb)
+- **(Machine Learning Lab) Titanic Machine Learning**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Titanic_ML_toStudent.ipynb)
 
-- **Satellite Classification**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Dental_Classification_toStudent.ipynb)
-
-- **Image Segmentation**: N/A
+- **(Deep Learning Lab) Dental Classification**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Dental_Classification_toStudent.ipynb)
 
 ### 🎯 **About MARS-LEARN**
 MARS (Motor AI Recognition Solution) is an AI company specializing in car insurance solutions. MARS-LEARN is a dedicated session for updating AI knowledge, providing foundational learning resources in AI and data modeling for MARS team members. This repository includes curated materials, hands-on labs, and interactive tutorials to help students and professionals enhance their machine learning and deep learning skills. Whether you're a beginner or an advanced practitioner, MARS-LEARN serves as a comprehensive learning hub.
