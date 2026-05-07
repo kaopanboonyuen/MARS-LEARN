@@ -78,6 +78,27 @@ This course intentionally uses datasets that are more challenging than MNIST/CIF
 - **(Deep Learning Masterclass) TensorFlow Image Classification Architecture**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/MARS_TensorFlow_Image_Classification_Masterclass.ipynb)
 
+---
+
+### 📊 MLflow for MARS (MLOps & Experiment Tracking)
+
+We introduce **MLflow for MARS (Motor AI Recognition Solution)** as a key component for building a scalable and production-ready MLOps pipeline for computer vision tasks such as vehicle detection.
+
+This material demonstrates how MARS can manage:
+
+- Experiment tracking (hyperparameters, metrics, runs)
+- Model versioning and reproducibility
+- Training comparison for YOLO-based detection systems
+- End-to-end MLOps workflow from training to deployment
+
+It also includes a practical comparison between **MLflow and Weights & Biases** for real-world AI development workflows in MARS.
+
+---
+
+📄 **Download Slides (MLflow for MARS)**  
+[View Slides (PDF)](https://github.com/kaopanboonyuen/MARS-LEARN/blob/main/slides/MARSAIL-MLFlow.pdf)
+
+---
 
 ### 🎯 **About MARS-LEARN**
 MARS (Motor AI Recognition Solution) is an AI company specializing in car insurance solutions. MARS-LEARN is a dedicated session for updating AI knowledge, providing foundational learning resources in AI and data modeling for MARS team members. This repository includes curated materials, hands-on labs, and interactive tutorials to help students and professionals enhance their machine learning and deep learning skills. Whether you're a beginner or an advanced practitioner, MARS-LEARN serves as a comprehensive learning hub.
