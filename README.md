@@ -6,6 +6,64 @@
 
 ### 📚 **Main Resources**
 
+# 🧠 Deep Learning Architecture Masterclass
+
+## 🚀 From Simple CNNs to Modern Vision Architectures
+
+This masterclass is designed to bridge the gap between introductory deep learning and real-world AI engineering.  
+Participants will move beyond basic datasets such as MNIST and CIFAR-10 and explore challenging image classification problems using modern TensorFlow workflows.
+
+### 🎯 Learning Objectives
+
+By the end of this session, participants will be able to:
+
+- Build and train deep convolutional neural networks (CNNs)
+- Understand why deeper architectures outperform shallow models
+- Apply modern training strategies:
+  - Batch Normalization
+  - Dropout
+  - Residual Connections (ResNet)
+  - Learning Rate Scheduling
+  - Data Augmentation
+  - Transfer Learning
+- Compare performance across multiple architectures
+- Analyze overfitting, generalization, and optimization behavior
+- Train production-style image classifiers using TensorFlow/Keras
+
+---
+
+## 🧪 Hands-On Masterclass Notebook
+
+### 🔥 TensorFlow Image Classification Masterclass
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/MARS_TensorFlow_Image_Classification_Masterclass.ipynb)
+
+Topics covered include:
+
+- CNN Fundamentals
+- Deep CNN Architectures
+- ResNet-style Networks
+- Transfer Learning with EfficientNet
+- Data Augmentation Pipelines
+- Fine-Tuning Strategies
+- Performance Evaluation
+- GPU Training Optimization
+
+---
+
+## 🗂️ Datasets Used in This Masterclass
+
+This course intentionally uses datasets that are more challenging than MNIST/CIFAR while remaining practical for GPU training in Google Colab.
+
+| Dataset | Focus Area |
+|---|---|
+| Fashion-MNIST | CNN Baselines |
+| CIFAR-100 | Deep Architecture Comparison |
+| Oxford-IIIT Pets | Transfer Learning |
+| Tiny ImageNet | Advanced Classification |
+| Food-101 | Real-World Visual Complexity |
+
+---
+
 - **Slides on Basic AI to MARS**: [View the slides](https://github.com/kaopanboonyuen/MARS-LEARN/blob/main/slides/20250319_BasicAI_toMARS.pdf)
   
 - **(Machine Learning Lab) Titanic Machine Learning**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Titanic_ML_toStudent.ipynb)
