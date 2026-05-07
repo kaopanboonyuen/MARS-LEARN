@@ -64,11 +64,20 @@ This course intentionally uses datasets that are more challenging than MNIST/CIF
 
 ---
 
-- **Slides on Basic AI to MARS**: [View the slides](https://github.com/kaopanboonyuen/MARS-LEARN/blob/main/slides/20250319_BasicAI_toMARS.pdf)
-  
-- **(Machine Learning Lab) Titanic Machine Learning**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Titanic_ML_toStudent.ipynb)
+### 📚 **Main Resources**
 
-- **(Deep Learning Lab) Dental Classification**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Dental_Classification_toStudent.ipynb)
+- **Slides on Basic AI to MARS**  
+  [![View Slides](https://img.shields.io/badge/View-Slides-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/kaopanboonyuen/MARS-LEARN/blob/main/slides/20250319_BasicAI_toMARS.pdf)
+
+- **(Machine Learning Lab) Titanic Machine Learning**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Titanic_ML_toStudent.ipynb)
+
+- **(Deep Learning Lab) Dental Classification**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/Dental_Classification_toStudent.ipynb)
+
+- **(Deep Learning Masterclass) TensorFlow Image Classification Architecture**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/MARS_TensorFlow_Image_Classification_Masterclass.ipynb)
+
 
 ### 🎯 **About MARS-LEARN**
 MARS (Motor AI Recognition Solution) is an AI company specializing in car insurance solutions. MARS-LEARN is a dedicated session for updating AI knowledge, providing foundational learning resources in AI and data modeling for MARS team members. This repository includes curated materials, hands-on labs, and interactive tutorials to help students and professionals enhance their machine learning and deep learning skills. Whether you're a beginner or an advanced practitioner, MARS-LEARN serves as a comprehensive learning hub.
