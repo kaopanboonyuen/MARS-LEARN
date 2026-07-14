@@ -78,6 +78,8 @@ This course intentionally uses datasets that are more challenging than MNIST/CIF
 - **(Deep Learning Masterclass) TensorFlow Image Classification Architecture**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/MARS-LEARN/blob/main/code/MARS_TensorFlow_Image_Classification_Masterclass.ipynb)
 
+---
+
 ## 🚀 Deep Learning Classification Best Practices
 
 From today's lecture, I'd like to share best practices for building image classification models using TensorFlow/Keras, covering transfer learning, fine-tuning, data augmentation, focal loss, class imbalance handling, and model evaluation.
